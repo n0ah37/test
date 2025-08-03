@@ -1,0 +1,9 @@
+{
+  "name": "com.evil.host",
+  "description": "Evil helper",
+  "path": "/home/oai/.chromium/NativeMessagingHosts/evil.sh",
+  "type": "stdio",
+  "allowed_origins": [
+    "chrome-extension://kcdongibgcplmaagnmgpjhpjgmmaaaaa/"
+  ]
+}
